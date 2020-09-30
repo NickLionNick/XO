@@ -1,0 +1,28 @@
+*, body, html{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    list-style: none;
+    cursor: default
+}
+.main{width: 350px;
+    margin: auto;
+    margin-top: 100px
+} 
+.pole{width: 306px;
+    display: flex;
+    flex-wrap: wrap;
+}
+li{width: 100px;
+    height:100px;
+    background: blue;
+    border: solid 1px black;
+    text-align: center;
+    font-size: 100px
+}
+.btn{padding: 20px; 
+    background: red;
+    margin-left: 110px;
+    margin-top: 10px
+}
